@@ -1,0 +1,78 @@
+.background{
+    background-image:url("https://comindesign.fr/wp-content/uploads/2018/08/website-design-slider-background-stockton.jpg");
+    height:100vh;
+    background-size:cover;
+    padding:10px;
+}
+.head{
+    font-family:Times New Roman;
+    color:#ffffff;
+    font-size:36px;
+    text-align:center;
+    margin: 1rem;
+    padding:10px;
+    font-weight:bold;
+}
+.subpart{
+    font-family:Times New Roman;
+    color:#ffffff;
+    font-size:24px;
+    display:inline;
+   padding:10px;
+}
+.al{
+    text-align:center;
+}
+.head-2{
+    font-family:Times new Roman;
+    color:#ffffff;
+    font-size:22px;
+    font-weight:bold;
+    padding:3px;
+}
+.subpart-2{
+    font-family:Times New Roman;
+    font-size:18px;
+    color:#ffffff;
+}
+.unorder{
+    list-style-type:square;
+    padding:0px;
+}
+.interface{
+    background-image:url("https://wallpaperaccess.com/full/5652030.jpg");
+    height:100vh;
+    background-size:cover;
+    padding:100px;
+}
+.head3{
+    font-family:georgia;
+    font-size:96px;
+    color:#ffffff;
+    text-align:left;
+}
+.name{
+    font-family:Arial;
+    font-size:84px;
+    color:#ffffff;
+    font-weight:bold;
+    text-align:left;
+}
+.image{
+    height:400px;
+    width:400px;
+    margin:30px;
+
+}
+.button{
+    color:white;
+}
+.part2{
+    padding:20px;
+}
+.cc{
+    color:#ffffff
+}
+.cc1{
+    list-style-type:none;
+}
